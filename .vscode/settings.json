@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ALGO.C": "cpp"
+        "ALGO.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
     }
 }
